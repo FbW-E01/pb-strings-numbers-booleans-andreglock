@@ -14,6 +14,9 @@ const isMarried = false;
 console.log('8: Linda is married -', isMarried);
 
 const programingLanguage = 'JavaScript';
+const isFun = true;
+
+console.log(programingLanguage, 'is Fun:', isFun);
 
 console.log('10:', programingLanguage[0], programingLanguage[4]);
 
